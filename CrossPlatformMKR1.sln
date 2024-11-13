@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossPlatformMKR1", "CrossPlatformMKR1\CrossPlatformMKR1.csproj", "{3B17F0F9-C0AD-4E81-B5FD-2B6553F0F268}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKR1.Tests", "MKR1.Tests\MKR1.Tests.csproj", "{39AC1128-5615-4F76-B583-211174B08D45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3B17F0F9-C0AD-4E81-B5FD-2B6553F0F268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B17F0F9-C0AD-4E81-B5FD-2B6553F0F268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B17F0F9-C0AD-4E81-B5FD-2B6553F0F268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39AC1128-5615-4F76-B583-211174B08D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AC1128-5615-4F76-B583-211174B08D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AC1128-5615-4F76-B583-211174B08D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AC1128-5615-4F76-B583-211174B08D45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
